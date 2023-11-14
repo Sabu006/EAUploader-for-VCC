@@ -1,27 +1,26 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"EAUploader",
+    "id":"com.sabuworks.eauploaer",
+    "url":"https://github.com/Sabu006/EAUploader-for-VCC/edit/main/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"fu-suke.tm@outlook.jp    ",
+        "name":"fu-sasa",
+        "url":"https://www.sabu006.com/eauploader"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"",
+        "text":""
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        ""
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.sabuworks.eauploaer",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip"
             ]
         }
     ]
