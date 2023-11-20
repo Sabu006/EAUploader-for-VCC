@@ -12,7 +12,12 @@
         "url":"https://github.com/Sabu006/EAUploader-for-VRChat",
         "text":"Go to Website"
     },
-    "githubRepos":[
-        "https://github.com/esperecyan/VRMConverterForVRChat"
+    "packages":[
+        {
+            "name":"jp.pokemori.vrm-converter-for-vrchat",
+            "releases":[
+                "https://github.com/esperecyan/VRMConverterForVRChat/releases/download/v40.1.1/jp.pokemori.vrm-converter-for-vrchat-40.1.1.zip"
+            ]
+        }
     ]
 }
