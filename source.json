@@ -1,6 +1,6 @@
 {
     "name":"EAUploader",
-    "id":"com.sabuworks.eauploaer",
+    "id":"com.sabuworks.eauploader",
     "url":"https://github.com/Sabu006/EAUploader-for-VRChat",
     "author":{
         "email":"fu-suke.tm@outlook.jp",
@@ -9,11 +9,10 @@
     },
     "description":"Simple extension editor for uploading avatars",
     "infoLink":{
-        "url":"https://www.sabu006.com/eauploader",
+        "url":"https://github.com/Sabu006/EAUploader-for-VRChat",
         "text":"Go to Website"
     },
-    "bannerUrl":"",
     "githubRepos":[
-        "https://id.pokemori.jp/vrm-converter-for-vrchat"
+        "https://github.com/esperecyan/VRMConverterForVRChat"
     ]
 }
