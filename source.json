@@ -1,27 +1,19 @@
 {
     "name":"EAUploader",
     "id":"com.sabuworks.eauploaer",
-    "url":"https://github.com/Sabu006/EAUploader-for-VCC/edit/main/index.json",
+    "url":"https://github.com/Sabu006/EAUploader-for-VRChat",
     "author":{
-        "email":"fu-suke.tm@outlook.jp    ",
+        "email":"fu-suke.tm@outlook.jp",
         "name":"fu-sasa",
         "url":"https://www.sabu006.com/eauploader"
     },
-    "description":"",
+    "description":"Simple extension editor for uploading avatars",
     "infoLink":{
-        "url":"",
-        "text":""
+        "url":"https://www.sabu006.com/eauploader",
+        "text":"Go to Website"
     },
     "bannerUrl":"",
     "githubRepos":[
-        ""
-    ],
-    "packages":[
-        {
-            "name":"com.sabuworks.eauploaer",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip"
-            ]
-        }
+        "https://id.pokemori.jp/vrm-converter-for-vrchat"
     ]
 }
