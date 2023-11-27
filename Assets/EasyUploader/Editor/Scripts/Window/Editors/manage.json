@@ -1,0 +1,20 @@
+{
+    "editors": [
+        {
+            "directory": "ShaderEditor",
+            "display_name": "Shader Editor",
+            "description": "Description for Shader Editor",
+            "author": "Sabu006",
+            "version": "1.0",
+            "url": "https://Sabu006.com"
+        },
+        {
+            "directory": "AutomaticEyepotisionSetting",
+            "display_name": "Auto Eyepotision Setting",
+            "description": "FOR RESEARCH",
+            "author": "Sabu006",
+            "version": "1.0",
+            "url": "https://Sabu006.com"
+        }
+    ]
+}
