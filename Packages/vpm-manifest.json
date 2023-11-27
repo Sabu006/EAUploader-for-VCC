@@ -1,0 +1,78 @@
+{
+  "dependencies": {
+    "com.vrchat.avatars": {
+      "version": "3.2.1"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.21"
+    },
+    "jp.pokemori.vrm-converter-for-vrchat": {
+      "version": "40.1.0"
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.23"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.2.0"
+    }
+  },
+  "locked": {
+    "com.vrchat.avatars": {
+      "version": "3.4.1",
+      "dependencies": {
+        "com.vrchat.base": "3.4.1"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.4.1",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.26",
+      "dependencies": {}
+    },
+    "jp.pokemori.vrm-converter-for-vrchat": {
+      "version": "40.1.1",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.2.0",
+        "com.vrmc.univrm": "^0.110.0",
+        "jp.pokemori.univrm-extensions": "^8.2.0"
+      }
+    },
+    "com.vrmc.univrm": {
+      "version": "0.110.0",
+      "dependencies": {
+        "com.vrmc.vrmshaders": "0.110.0",
+        "com.vrmc.gltf": "0.110.0"
+      }
+    },
+    "com.vrmc.vrmshaders": {
+      "version": "0.110.0",
+      "dependencies": {}
+    },
+    "com.vrmc.gltf": {
+      "version": "0.110.0",
+      "dependencies": {
+        "com.vrmc.vrmshaders": "0.110.0"
+      }
+    },
+    "jp.pokemori.univrm-extensions": {
+      "version": "8.2.0",
+      "dependencies": {
+        "com.vrmc.univrm": "0.110.0"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.25",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.2.0 < 3.5.0"
+      }
+    },
+    "lyuma.av3emulator": {
+      "version": "3.2.4",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.1.0 <3.5.0"
+      }
+    }
+  }
+}
