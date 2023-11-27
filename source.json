@@ -1,12 +1,12 @@
 {
     "name":"EAUploader",
-    "id":"com.sabuworks.eauploader",
-    "url":"https://Sabu006.io/eauploader/index.json",
     "author":{
         "email":"fu-suke.tm@outlook.jp",
         "name":"fu-sasa",
         "url":"https://www.sabu006.com/eauploader"
     },
+    "id":"com.sabuworks.eauploader",
+    "url":"https://Sabu006.io/eauploader/index.json",
     "description":"Simple extension editor for uploading avatars",
     "infoLink":{
         "url":"https://github.com/Sabu006/EAUploader-for-VRChat",
